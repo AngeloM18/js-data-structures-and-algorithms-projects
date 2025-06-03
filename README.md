@@ -2,7 +2,7 @@
 
 Just to show the projects I made for freeCodeCamp's Algorithms & Data Structures course. The course focuses on teaching JavaScript from the ground up, but with no external libraries nor local runtime environments for JavaScript (like Node.js).
 
-The projects can be visualized on my [CodePen's collection](https://codepen.io/collection/eJEMkx) or by clicking on my [certification (automatically) issued by freeCodeCamp](https://www.freecodecamp.org/certification/1898Angelo/javascript-algorithms-and-data-structures-v8).
+The projects can be visualized on my [CodePen's collection](https://codepen.io/collection/eJEMkx) or by clicking on my [certification (automatically) issued by freeCodeCamp]([https://www.freecodecamp.org/certification/1898Angelo/javascript-algorithms-and-data-structures-v8](https://www.freecodecamp.org/certification/Angelo18/javascript-algorithms-and-data-structures-v8)).
 
 No code or styling was provided for the realization of any of the projects.
 
